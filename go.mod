@@ -1,4 +1,4 @@
-module golang-mod
+module golang-projek
 
 go 1.24.4
 
