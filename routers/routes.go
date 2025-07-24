@@ -1,9 +1,8 @@
 package routers
 
 import (
-	"golang-mod/controller"
-
 	"github.com/gofiber/fiber/v2"
+	"github.com/tarxvrf/golang-projek/controller"
 )
 
 func Handleroutes(ctx *fiber.App) {

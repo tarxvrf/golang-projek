@@ -1,10 +1,9 @@
 package main
 
 import (
-	"golang-mod/database"
-	"golang-mod/routers"
-
 	"github.com/gofiber/fiber/v2"
+	"github.com/tarxvrf/golang-projek/database"
+	"github.com/tarxvrf/golang-projek/routers"
 )
 
 func main() {
